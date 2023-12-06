@@ -13,7 +13,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0",
     "uuid": "^3.3.2",
-    "pubnub": "^4.21.6",
+    "pubnub": "^7.4.0",
     "react-redux": "^6.0.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0"
